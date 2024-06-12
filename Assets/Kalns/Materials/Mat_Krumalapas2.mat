@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: krumalapas
-  m_Shader: {fileID: -6465566751694194690, guid: b3ce2860197b3334ea48d03ff9c3b164, type: 3}
+  m_Name: Mat_Krumalapas2
+  m_Shader: {fileID: -6465566751694194690, guid: 23d616c8c9280e742aeea58a4c8dd747, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -61,6 +61,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_170db3410b824dfba94e9c8a49824627_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 2a4c5e83a20e5e54ea12c6565e378eeb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2cf6fa07569d4e9a99f77afdb4514ce9_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: d36dd1a67e99fda489ae4920abdfa9be, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_b4e34257021c4703921fdb8d75e9f0ef_Texture_1_Texture2D:
