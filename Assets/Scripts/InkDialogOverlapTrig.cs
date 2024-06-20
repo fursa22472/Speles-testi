@@ -83,7 +83,7 @@ public class InkDialogOverlapTrig : MonoBehaviour
         // If we've read all the content and there's no choices, the story is finished!
         else
         {
-            Button choice = CreateChoiceView("ok, finished?");
+            Button choice = CreateChoiceView("Ata");
             choice.onClick.AddListener(delegate {
                 RemoveChildren();
             });
